@@ -1,0 +1,3 @@
+<?php
+$conn = new mysqli("localhost", "root", "", "elite_finance");
+?>
